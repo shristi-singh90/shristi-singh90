@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shristisingh995303@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I love to paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
