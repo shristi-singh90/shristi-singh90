@@ -1,6 +1,6 @@
 <img align ="center" width="900" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE3cnRhZnVwZjBiOGFzZHFldTMwZDZ2N2pjbmVreGJqYTd6ZDF0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt=""/><a>
 
-<h1 align="center">Hi <img height="75" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt=""/><a></a>, I'm Shristi Singh</h1>
+<h1 align="center">Hi <img height="50" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt=""/><a></a>, I'm Shristi Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt=""/><a></a>
 
