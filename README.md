@@ -1,4 +1,4 @@
-<img align ="center" width="900" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE3cnRhZnVwZjBiOGFzZHFldTMwZDZ2N2pjbmVreGJqYTd6ZDF0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt=""/><a>
+<img align ="center" width="900" height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXE3cnRhZnVwZjBiOGFzZHFldTMwZDZ2N2pjbmVreGJqYTd6ZDF0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt=""/><a>
 
 <h1 align="center">Hi 👋, I'm Shristi Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
